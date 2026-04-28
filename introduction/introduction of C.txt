@@ -1,4 +1,6 @@
-﻿What is C
+Introduction of c language
+
+What is C
 What is C?
 C is a general-purpose programming language created by Dennis Ritchie at Bell Labs in 1972.
 It is popular because it is fast, widely supported, and helps you understand how programs work "under the hood".
@@ -28,7 +30,7 @@ Difference between C and C++
 * C++ supports classes and objects (often used for object-oriented programming)
 
 
-Tab 2
+Instalation of c language
 
 
 ________________
